@@ -1,0 +1,14 @@
+layout_spectrum: 0.07164311478845775
+typography_spectrum: 0.8453084211796522
+color:
+  brandStrength: 0.8940360581036657
+  lightness: 0.5521691627800465
+  saturation: 0.592345047974959
+  rhythmicContrast: 0.8786199153400958
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: Gold
