@@ -1,4 +1,3 @@
-layout_spectrum: 0.07164311478845775
 typography_spectrum: 0.8453084211796522
 color:
   brandStrength: 0.8940360581036657
@@ -11,5 +10,7 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
+layout_spectrum: 0.07164311478845775
 name: Gold
 title: Shiny Metallic Gold
+description: Put some bling into your life!
